@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import telebot
 print('Все библиотеки загружены')
 
-bot = telebot.TeleBot('1023021830:AAF4KuD-FIjgAvLLomcvb5HOxtZWVrVZ0JQ')
+bot = telebot.TeleBot('here must be bot token')
  
 from telebot import types
 
